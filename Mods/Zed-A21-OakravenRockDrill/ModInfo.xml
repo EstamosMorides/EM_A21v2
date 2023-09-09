@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<Name value="Zed-A21-OakravenRockDrill" />
+	<DisplayName value="A21 Rock Drill" />
+	<Description value="Adds a drilling machine to collect mining resources." />
+	<Author value="oakraven, with support from arramus" />
+	<Version value="21.0.312.0" />
+	<Website value="" />
+</xml>
+

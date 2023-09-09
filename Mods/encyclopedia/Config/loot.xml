@@ -1,0 +1,462 @@
+<encyclopedia>
+
+
+<append xpath="/lootcontainers/lootgroup[@name='skillMagazines']">
+	<!-- Working_Stiff_Magazines_AND_Trader_Bob_Magazines -->
+	<item name="encyclopediaharvestingToolsSkillMagazine"/>
+	<item name="encyclopediarepairToolsSkillMagazine"/>
+	<item name="encyclopediasalvageToolsSkillMagazine"/>
+	<item name="encyclopediasledgehammersSkillMagazine"/>
+	<item name="encyclopediaworkstationSkillMagazine"/>
+	
+	<!-- Savage_Country_AND_Trader_Hugh_Magazines -->
+	<item name="encyclopediabowsSkillMagazine"/>
+	<item name="encyclopediaspearsSkillMagazine"/>
+	<item name="encyclopediabladesSkillMagazine"/>
+	<item name="encyclopediaclubsSkillMagazine"/>
+	
+	<!-- Shotgun_Messiah_AND_Trader_Hugh_Magazines -->
+	<item name="encyclopediahandgunsSkillMagazine"/>
+	<item name="encyclopediashotgunsSkillMagazine"/>
+	<item name="encyclopediariflesSkillMagazine"/>
+	<item name="encyclopediamachineGunsSkillMagazine"/>
+	<item name="encyclopediaexplosivesSkillMagazine"/>
+	
+	<!-- Savage_Country_AND_Trader_Joel_Magazines -->
+	<item name="encyclopediaarmorSkillMagazine"/>
+	
+	<!-- Pop-N-Pills_AND_Trader_Jen_Magazines -->
+	<item name="encyclopediamedicalSkillMagazine"/>
+	<item name="encyclopediaknucklesSkillMagazine"/>
+	
+	<!-- Shamway_AND_Trader_Rekt_Magazines -->
+	<item name="encyclopediafoodSkillMagazine"/>
+	<item name="encyclopediaseedSkillMagazine"/>
+	
+	<!-- Mo_Power_AND_Trader_Bob_Magazines -->
+	<item name="encyclopediaroboticsSkillMagazine"/>
+	<item name="encyclopediavehiclesSkillMagazine"/>
+	<item name="encyclopediaelectricianSkillMagazine"/>
+	<item name="encyclopediatrapsSkillMagazine"/>
+</append> 
+
+<append xpath="/lootcontainers/lootgroup[@name='groupQuestRewardSkillMagazinesAll01']">
+	<item name="encyclopediabowsSkillMagazine" count="1"/>
+	<item name="encyclopediaspearsSkillMagazine" count="1"/>
+	<item name="encyclopediaclubsSkillMagazine" count="1"/>
+	<item name="encyclopediasledgehammersSkillMagazine" count="1"/>
+	<item name="encyclopediaharvestingToolsSkillMagazine" count="1"/>
+	<item name="encyclopediaknucklesSkillMagazine" count="1"/>
+	<item name="encyclopediabladesSkillMagazine" count="1"/>
+	<item name="encyclopediarepairToolsSkillMagazine" count="1"/>
+	<item name="encyclopediasalvageToolsSkillMagazine" count="1"/>
+
+	<item name="encyclopediahandgunsSkillMagazine" count="1"/>
+	<item name="encyclopediashotgunsSkillMagazine" count="1"/>
+	<item name="encyclopediariflesSkillMagazine" count="1"/>
+	<item name="encyclopediamachineGunsSkillMagazine" count="1"/>
+	<item name="encyclopediaexplosivesSkillMagazine" count="1"/>
+	<item name="encyclopediaarmorSkillMagazine" count="1"/>
+	<item name="encyclopediaroboticsSkillMagazine" count="1"/>
+
+	<item name="encyclopediaworkstationSkillMagazine" count="1"/>
+	<item name="encyclopediamedicalSkillMagazine" count="1"/>
+	<item name="encyclopediafoodSkillMagazine" count="1"/>
+	<item name="encyclopediaseedSkillMagazine" count="1"/>
+	<item name="encyclopediavehiclesSkillMagazine" count="1"/>
+	<item name="encyclopediaelectricianSkillMagazine" count="1"/>
+	<item name="encyclopediatrapsSkillMagazine" count="1"/>
+
+
+</append>
+
+
+<append xpath="/lootcontainers/lootgroup[@name='weaponSkillMagazinesOnly']">
+
+	<item name="encyclopediabowsSkillMagazine"/>
+	<item name="encyclopediaspearsSkillMagazine"/>
+	<item name="encyclopediabladesSkillMagazine"/>
+	<item name="encyclopediaclubsSkillMagazine"/>
+	<item name="encyclopediahandgunsSkillMagazine"/>
+	<item name="encyclopediashotgunsSkillMagazine"/>
+	<item name="encyclopediariflesSkillMagazine"/>
+	<item name="encyclopediamachineGunsSkillMagazine"/>
+	<item name="encyclopediaexplosivesSkillMagazine"/>
+	<item name="encyclopediaknucklesSkillMagazine"/>
+	<item name="encyclopediaroboticsSkillMagazine"/>
+
+</append> 
+
+<append xpath="/lootcontainers/lootgroup[@name='groupWorkingStiffsBooks']">
+
+
+<item name="harvestingToolsSkillMagazine"/>
+	<item name="encyclopediarepairToolsSkillMagazine"/>
+	<item name="encyclopediasalvageToolsSkillMagazine"/>
+	<item name="encyclopediasledgehammersSkillMagazine"/>
+	<item name="encyclopediaworkstationSkillMagazine"/>
+	
+</append> 
+
+<append xpath="/lootcontainers/lootgroup[@name='groupWorkingStiffs01']">
+
+	<item name="encyclopediaharvestingToolsSkillMagazine" loot_prob_template="med"/>
+	<item name="encyclopediarepairToolsSkillMagazine" loot_prob_template="med"/>
+	<item name="encyclopediasalvageToolsSkillMagazine" loot_prob_template="med"/>
+	<item name="encyclopediasledgehammersSkillMagazine" loot_prob_template="med"/>
+	<item name="encyclopediaworkstationSkillMagazine" loot_prob_template="med"/>
+		
+</append> 
+
+
+<append xpath="/lootcontainers/lootgroup[@name='survivalMedical']">
+
+<item name="encyclopediamedicalSkillMagazine" loot_prob_template="low"/>
+
+</append> 
+
+
+
+<append xpath="/lootcontainers/lootgroup[@name='groupCupboard01']">
+
+<item name="encyclopediafoodSkillMagazine" loot_prob_template="veryLow"/>
+
+</append> 
+
+
+
+
+<append xpath="/lootcontainers/lootgroup[@name='groupCupboard02']">
+
+<item name="encyclopediafoodSkillMagazine" loot_prob_template="veryLow"/>
+
+</append> 
+
+
+
+
+
+<append xpath="/lootcontainers/lootgroup[@name='groupBuriedSuppliesT1_03']">
+
+<item name="encyclopediafoodSkillMagazine" loot_prob_template="veryLow"/>
+<item name="encyclopediaseedSkillMagazine" loot_prob_template="veryLow"/>
+
+</append> 
+
+
+
+
+<append xpath="/lootcontainers/lootgroup[@name='groupFoodPileMed']">
+
+<item name="encyclopediafoodSkillMagazine" loot_prob_template="low"/>
+
+</append> 
+
+
+
+
+<append xpath="/lootcontainers/lootgroup[@name='groupFoodPileLarge']">
+
+<item name="encyclopediafoodSkillMagazine" count="0,1" loot_prob_template="low"/>
+
+</append> 
+
+
+
+<append xpath="/lootcontainers/lootgroup[@name='groupMedicalPileSmall']">
+
+<item name="encyclopediamedicalSkillMagazine" count="0,1" loot_prob_template="low"/>
+
+</append> 
+
+
+<append xpath="/lootcontainers/lootgroup[@name='groupMedicalPileMed']">
+
+<item name="encyclopediamedicalSkillMagazine" count="0,1" loot_prob_template="low"/>
+
+</append> 
+
+
+
+
+<append xpath="/lootcontainers/lootgroup[@name='groupLiquorBonus']">
+
+<item name="encyclopediafoodSkillMagazine" count="0,1" loot_prob_template="veryLow"/>
+
+</append>
+
+
+<append xpath="/lootcontainers/lootgroup[@name='groupMedicalPileLarge']">
+
+<item name="encyclopediamedicalSkillMagazine" count="0,1" loot_prob_template="low"/>
+
+</append>
+
+
+
+<append xpath="/lootcontainers/lootgroup[@name='groupGarage02']">
+
+<item name="encyclopediavehiclesSkillMagazine" count="0,1" loot_prob_template="low"/>
+
+</append>
+
+
+<append xpath="/lootcontainers/lootgroup[@name='groupWorkbenchLoot04']">
+
+<item name="encyclopediaworkstationSkillMagazine" loot_prob_template="med"/>
+
+</append>
+
+
+<append xpath="/lootcontainers/lootgroup[@name='groupForge']">
+
+<item name="encyclopediaworkstationSkillMagazine" loot_prob_template="med"/>
+
+</append>
+
+
+<append xpath="/lootcontainers/lootgroup[@name='groupCementMixerLoot']">
+
+<item name="encyclopediaworkstationSkillMagazine" loot_prob_template="med"/>
+
+</append>
+
+
+
+
+<append xpath="/lootcontainers/lootgroup[@name='groupChemistryStationLoot03']">
+
+<item name="encyclopediaworkstationSkillMagazine" loot_prob_template="med"/>
+
+</append>
+
+<append xpath="/lootcontainers/lootgroup[@name='groupDewCollectorLoot01']">
+
+<item name="encyclopediaworkstationSkillMagazine" loot_prob_template="med"/>
+
+</append>
+
+<append xpath="/lootcontainers/lootgroup[@name='groupDewCollectorLoot02']">
+
+<item name="encyclopediaworkstationSkillMagazine" loot_prob_template="low"/>
+
+</append>
+
+
+
+<append xpath="/lootcontainers/lootgroup[@name='groupStunBaton']">
+
+<item name="encyclopediaroboticsSkillMagazine" loot_prob_template="med"/>
+
+</append>
+
+
+<append xpath="/lootcontainers/lootgroup[@name='groupBotSchematics']">
+
+<item name="encyclopediaroboticsSkillMagazine" loot_prob_template="med"/>
+
+</append>
+
+
+<append xpath="/lootcontainers/lootgroup[@name='groupMoPowerShelves']">
+
+<item name="encyclopediaelectricianSkillMagazine" loot_prob_template="med"/>
+<item name="trapsSkillMagazine" loot_prob_template="low" />
+
+</append>
+
+<append xpath="/lootcontainers/lootgroup[@name='groupMoPower01']">
+
+<item name="encyclopediaelectricianSkillMagazine" loot_prob_template="med"/>
+<item name="encyclopediatrapsSkillMagazine" loot_prob_template="med"/>
+
+</append>
+
+<append xpath="/lootcontainers/lootgroup[@name='groupMoPower02']">
+
+<item name="encyclopediaroboticsSkillMagazine" loot_prob_template="med"/>
+<item name="encyclopediavehiclesSkillMagazine" loot_prob_template="low"/>
+<item name="encyclopediaelectricianSkillMagazine" loot_prob_template="med"/>
+<item name="encyclopediatrapsSkillMagazine" loot_prob_template="low"/>
+
+</append>
+
+
+<append xpath="/lootcontainers/lootgroup[@name='groupMoPower04']">
+
+<item name="encyclopediaelectricianSkillMagazine" loot_prob_template="med"/>
+<item name="encyclopediatrapsSkillMagazine" loot_prob_template="low"/>
+
+</append>
+
+
+<append xpath="/lootcontainers/lootgroup[@name='groupFarmTruck02']">
+
+<item name="encyclopediavehiclesSkillMagazine" loot_prob_template="low"/>
+
+
+</append>
+
+
+
+<append xpath="/lootcontainers/lootgroup[@name='groupPassNGas01']">
+
+	<item name="encyclopediaharvestingToolsSkillMagazine" loot_prob_template="med"/>
+	<item name="encyclopediarepairToolsSkillMagazine" loot_prob_template="med"/>
+	<item name="encyclopediasalvageToolsSkillMagazine" loot_prob_template="med"/>
+	<item name="encyclopediavehiclesSkillMagazine" loot_prob_template="med"/>
+
+</append>
+
+
+
+
+<append xpath="/lootcontainers/lootgroup[@name='groupPassNGas03']">
+
+	<item name="encyclopediaharvestingToolsSkillMagazine" loot_prob_template="med"/>
+	<item name="encyclopediarepairToolsSkillMagazine" loot_prob_template="med"/>
+	<item name="encyclopediasalvageToolsSkillMagazine" loot_prob_template="med"/>
+
+</append>
+
+
+
+<append xpath="/lootcontainers/lootgroup[@name='groupSavageCountryBooks']">
+
+	<item name="encyclopediaarmorSkillMagazine"/>
+	<item name="encyclopediabowsSkillMagazine"/>
+	<item name="encyclopediaspearsSkillMagazine"/>
+	<item name="encyclopediabladesSkillMagazine"/>
+	<item name="encyclopediaclubsSkillMagazine"/>
+
+</append>
+
+
+
+<append xpath="/lootcontainers/lootgroup[@name='groupSavageCountryCrate01']">
+
+	<item name="encyclopediaarmorSkillMagazine" loot_prob_template="med"/>
+	<item name="encyclopediabowsSkillMagazine" loot_prob_template="med"/>
+	<item name="encyclopediaspearsSkillMagazine" loot_prob_template="med"/>
+	<item name="encyclopediabladesSkillMagazine" loot_prob_template="med"/>
+	<item name="encyclopediaclubsSkillMagazine" loot_prob_template="med"/>
+
+</append>
+
+<append xpath="/lootcontainers/lootgroup[@name='groupShotgunMessiahBooks']">
+
+	<item name="encyclopediahandgunsSkillMagazine"/>
+	<item name="encyclopediashotgunsSkillMagazine"/>
+	<item name="encyclopediariflesSkillMagazine"/>
+	<item name="encyclopediamachineGunsSkillMagazine"/>
+	<item name="encyclopediaexplosivesSkillMagazine"/>
+
+</append>
+
+
+
+<append xpath="/lootcontainers/lootgroup[@name='groupShotgunMessiahCrate02']">
+
+	<item name="encyclopediahandgunsSkillMagazine" loot_prob_template="med"/>
+	<item name="encyclopediashotgunsSkillMagazine" loot_prob_template="med"/>
+	<item name="encyclopediariflesSkillMagazine" loot_prob_template="med"/>
+	<item name="encyclopediamachineGunsSkillMagazine" loot_prob_template="med"/>
+	<item name="encyclopediaexplosivesSkillMagazine" loot_prob_template="med"/>
+	
+</append>
+
+
+
+<append xpath="/lootcontainers/lootgroup[@name='groupShamwayCrate02']">
+
+	<item name="encyclopediafoodSkillMagazine" loot_prob_template="med"/>
+	<item name="encyclopediaseedSkillMagazine" loot_prob_template="med"/>
+	
+</append>
+
+
+
+<append xpath="/lootcontainers/lootgroup[@name='groupPopNPillsBooks']">
+
+	<item name="encyclopediamedicalSkillMagazine"/>
+	<item name="encyclopediaknucklesSkillMagazine"/>
+	
+</append>
+
+
+
+<append xpath="/lootcontainers/lootgroup[@name='groupPopNPillsCrate02']">
+
+	<item name="encyclopediamedicalSkillMagazine" loot_prob_template="med"/>
+	<item name="encyclopediaknucklesSkillMagazine" loot_prob_template="med"/>
+	
+</append>
+
+
+
+
+<append xpath="/lootcontainers/lootgroup[@name='groupLootChestBonusItems']">
+
+	<item name="encyclopediaharvestingToolsSkillMagazine" count="1" loot_prob_template="low"/>
+	<item name="encyclopediarepairToolsSkillMagazine" count="1" loot_prob_template="low"/>
+	<item name="encyclopediasalvageToolsSkillMagazine" count="1" loot_prob_template="low"/>
+	<item name="encyclopediaworkstationSkillMagazine" count="1" loot_prob_template="low"/>
+	
+</append>
+
+
+
+<append xpath="/lootcontainers/lootgroup[@name='groupHiddenStash02']">
+
+	<item name="encyclopediaworkstationSkillMagazine" count="1" loot_prob_template="low"/>
+	
+</append>
+
+
+<append xpath="/lootcontainers/lootgroup[@name='groupConstructionCrate02']">
+
+	<item name="encyclopediaworkstationSkillMagazine" loot_prob_template="low"/>
+	
+</append>
+
+
+
+<append xpath="/lootcontainers/lootgroup[@name='groupAirDrop03']">
+
+	<item name="encyclopediaworkstationSkillMagazine"/>
+	
+</append>
+
+
+<append xpath="/lootcontainers/lootgroup[@name='schematicsVehiclesT0']">
+
+	<item name="encyclopediavehiclesSkillMagazine" />
+	
+</append>
+
+<append xpath="/lootcontainers/lootgroup[@name='schematicsVehiclesT1']">
+
+	<item name="encyclopediavehiclesSkillMagazine" />
+	
+</append>
+
+<append xpath="/lootcontainers/lootgroup[@name='schematicsVehiclesT2']">
+
+	<item name="encyclopediavehiclesSkillMagazine" />
+	
+</append>
+
+<append xpath="/lootcontainers/lootgroup[@name='groupElectricalDevices']">
+
+    <item name="encyclopediaelectricianSkillMagazine" loot_prob_template="med" />
+    <item name="encyclopediatrapsSkillMagazine" count="1" loot_prob_template="low" />
+
+</append>
+
+<append xpath="/lootcontainers/lootgroup[@name='groupFoodPileSmall']">
+
+    <item name="encyclopediafoodSkillMagazine" count="0,1" loot_prob_template="veryLow" />
+
+</append>
+
+</encyclopedia>

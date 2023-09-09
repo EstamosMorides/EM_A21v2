@@ -1,0 +1,10 @@
+Key,english,russian
+wallOvenWhite_restored,Restored White Wall Oven,Восстановленная Белая встроенная печь
+wallOvenGrey_restored,Restored Grey Wall Oven,Восстановленная Серая встроенная печь
+wallOvenBlack_restored,Restored Black Wall Oven,Восстановленная Черная встроенная печь
+woodBurningStove_restored,Restored Wood Burning Stove,Восстановленная дровяная печь
+stoveOld_restored,Restored Old Stove,Восстановленная старая плита
+stoveModern_restored,Restored Modern Stove,Восстановленная современная плита
+gasRangeWhite_restored,Restored White Gas Range,Восстановленная Белая газовая плита
+gasRangeGrey_restored,Restored Grey Gas Range,Восстановленная Серая газовая плита
+gasRangeBlack_restored,Restored Black Gas Range,Восстановленная Черная газовая плита

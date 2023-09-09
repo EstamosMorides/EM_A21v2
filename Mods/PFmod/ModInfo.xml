@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<ModInfo>
+		<Name value="PFmod" />
+		<Description value="A modified gameplay for casual gamers" />
+		<Author value="polyflame" />
+		<Version value="19.6" />
+	</ModInfo>
+</xml>

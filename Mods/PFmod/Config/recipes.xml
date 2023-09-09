@@ -1,0 +1,7 @@
+<PFmod>
+    <append xpath="/recipes">
+        <recipe name="FireLog" craft_time="2" count="1">
+            <ingredient name="resourceWood" count="12"/>
+        </recipe>
+    </append>
+</PFmod>

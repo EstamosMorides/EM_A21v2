@@ -1,0 +1,16 @@
+<PFmod>
+    <append xpath="/items">
+        <item name="FireLog">
+            <!-- scrap material -->
+            <property name="HoldType" value="45" />
+            <property name="Meshfile" value="#Other/Items?Misc/sackPrefab.prefab" />
+            <property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab" />
+            <property name="Material" value="MresourceWood" />
+            <property name="Weight" value="5" />
+            <property name="CustomIcon" value="woodLogPillar100" />
+            <property name="CustomIconTint" value="8a3324" />
+            <property name="Stacknumber" value="50" /> <!-- STK resource -->
+            <property name="FuelValue" value="600" />
+        </item>
+    </append>
+</PFmod>

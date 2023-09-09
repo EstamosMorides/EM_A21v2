@@ -1,0 +1,19 @@
+<PFmod>
+    <!-- Bicycle & Parts in Dumpster -->
+    <append xpath="/lootcontainers/lootcontainer[@name='dumpster']">
+        <item name="vehicleBicyclePlaceable" loot_prob_template="ProbT0"/>
+        <item group="bicycleParts" loot_prob_template="ProbT0"/>
+        <item group="schematicsVehiclesT0" loot_prob_template="ProbT0"/>
+	</append>
+
+    <!-- Improve quantity and prob in BirdsNest -->
+    <set xpath="/lootcontainers/lootcontainer[@name='birdNest']/@count">2,3</set>
+    <remove xpath="/lootcontainers/lootgroup[@name='groupBirdNest02']"></remove>
+    <insertAfter xpath="/lootcontainers/lootgroup[@name='groupBirdNest01']" >
+        <!-- birds nest-->
+        <lootgroup name="groupBirdNest02" count="1,2">
+	        <item name="foodEgg" count="2,6" prob="1"/>
+            <item group="seeds" count="2,6" prob="0.45"/>
+        </lootgroup>
+    </insertAfter>
+</PFmod>

@@ -1,0 +1,3 @@
+<PFmod>
+    <set xpath="/worldgeneration/pois/poi/blockontop[@blockname='goreBlockAnimal']/@prob">0.0012</set>
+</PFmod>

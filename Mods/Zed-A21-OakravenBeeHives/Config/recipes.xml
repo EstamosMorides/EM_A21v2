@@ -1,0 +1,44 @@
+<configs>
+
+	<append xpath="/recipes">
+	
+	<recipe name="BeeHiveVariantHelper" count="1" craft_time="180" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceForgedIron" count="5"/>
+	<ingredient name="resourceSpring" count="2"/>
+	<ingredient name="resourceLeather" count="10"/>
+	<ingredient name="resourceDuctTape" count="10"/>
+	<ingredient name="resourceWood" count="50"/>
+	</recipe>	
+	
+	<recipe name="foodHoney" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="foodHoneyComb" count="5"/>
+	<ingredient name="drinkJarBoiledWater" count="1"/>
+	<ingredient name="resourceGunPowder" count="3"/>
+	<ingredient name="resourcePaper" count="1"/>
+	<ingredient name="resourceGlue" count="1"/>
+	</recipe>
+
+	<recipe name="foodHoneyBread" count="1" craft_area="campfire" craft_tool="toolCookingPot">
+	<ingredient name="foodHoneyComb" count="5"/>
+	<ingredient name="foodCornMeal" count="2"/>
+	<ingredient name="drinkJarBoiledWater" count="1"/>
+	<ingredient name="foodEgg" count="1"/>
+	</recipe>
+
+	<recipe name="foodHoneyPumpkinPie" count="1" craft_area="campfire" craft_tool="toolCookingPot">
+	<ingredient name="foodHoneyComb" count="5"/>
+	<ingredient name="foodCropPumpkin" count="2"/>
+	<ingredient name="foodEgg" count="1"/>
+	<ingredient name="foodCornMeal" count="1"/>
+	</recipe>
+
+	<recipe name="drinkHoneyBeer" count="1" craft_area="campfire" craft_tool="toolCookingPot">
+	<ingredient name="resourceCropHopsFlower" count="4"/>
+	<ingredient name="drinkJarRiverWater" count="4"/>
+	<ingredient name="foodCropPotato" count="4"/>
+	<ingredient name="foodHoneyComb" count="5"/>
+	</recipe>
+
+	</append>
+	
+</configs>

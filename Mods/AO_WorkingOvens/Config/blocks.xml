@@ -1,0 +1,414 @@
+<configs>
+    <!-- region UPGRADE -->
+    <!-- region WALL_OVENS -->
+    <!-- White -->
+    <append xpath="/blocks/block[@name='cntwallOvenEmptyWhite']">
+        <property class="UpgradeBlock">
+            <property name="ToBlock" value="wallOvenWhite_restored"/>
+            <property name="Item" value="resourceRepairKit"/>
+            <property name="ItemCount" value="1"/>
+            <property name="UpgradeHitCount" value="5"/>
+        </property>
+    </append>
+    <append xpath="/blocks/block[@name='cntwallOvenFullWhite']">
+        <property class="UpgradeBlock">
+            <property name="ToBlock" value="wallOvenWhite_restored"/>
+            <property name="Item" value="resourceRepairKit"/>
+            <property name="ItemCount" value="1"/>
+            <property name="UpgradeHitCount" value="5"/>
+        </property>
+    </append>
+    <append xpath="/blocks/block[@name='cntwallOvenFullWhite_Player']">
+        <property class="UpgradeBlock">
+            <property name="ToBlock" value="wallOvenWhite_restored"/>
+            <property name="Item" value="resourceRepairKit"/>
+            <property name="ItemCount" value="1"/>
+            <property name="UpgradeHitCount" value="5"/>
+        </property>
+    </append>
+
+    <!-- Grey -->
+    <append xpath="/blocks/block[@name='cntwallOvenEmptyGrey']">
+        <property class="UpgradeBlock">
+            <property name="ToBlock" value="wallOvenGrey_restored"/>
+            <property name="Item" value="resourceRepairKit"/>
+            <property name="ItemCount" value="1"/>
+            <property name="UpgradeHitCount" value="5"/>
+        </property>
+    </append>
+    <append xpath="/blocks/block[@name='cntwallOvenFullGrey']">
+        <property class="UpgradeBlock">
+            <property name="ToBlock" value="wallOvenGrey_restored"/>
+            <property name="Item" value="resourceRepairKit"/>
+            <property name="ItemCount" value="1"/>
+            <property name="UpgradeHitCount" value="5"/>
+        </property>
+    </append>
+    <append xpath="/blocks/block[@name='cntwallOvenFullGrey_Player']">
+        <property class="UpgradeBlock">
+            <property name="ToBlock" value="wallOvenGrey_restored"/>
+            <property name="Item" value="resourceRepairKit"/>
+            <property name="ItemCount" value="1"/>
+            <property name="UpgradeHitCount" value="5"/>
+        </property>
+    </append>
+
+    <!-- Black -->
+    <append xpath="/blocks/block[@name='cntwallOvenEmptyBlack']">
+        <property class="UpgradeBlock">
+            <property name="ToBlock" value="wallOvenBlack_restored"/>
+            <property name="Item" value="resourceRepairKit"/>
+            <property name="ItemCount" value="1"/>
+            <property name="UpgradeHitCount" value="5"/>
+        </property>
+    </append>
+    <append xpath="/blocks/block[@name='cntwallOvenFullBlack']">
+        <property class="UpgradeBlock">
+            <property name="ToBlock" value="wallOvenBlack_restored"/>
+            <property name="Item" value="resourceRepairKit"/>
+            <property name="ItemCount" value="1"/>
+            <property name="UpgradeHitCount" value="5"/>
+        </property>
+    </append>
+    <append xpath="/blocks/block[@name='cntwallOvenFullBlack_Player']">
+        <property class="UpgradeBlock">
+            <property name="ToBlock" value="wallOvenBlack_restored"/>
+            <property name="Item" value="resourceRepairKit"/>
+            <property name="ItemCount" value="1"/>
+            <property name="UpgradeHitCount" value="5"/>
+        </property>
+    </append>
+    <!-- endregion -->
+
+    <!-- region WOOD_STOVE -->
+    <append xpath="/blocks/block[@name='cntWoodBurningStove']">
+        <property class="UpgradeBlock">
+            <property name="ToBlock" value="woodBurningStove_restored"/>
+            <property name="Item" value="resourceRepairKit"/>
+            <property name="ItemCount" value="1"/>
+            <property name="UpgradeHitCount" value="5"/>
+        </property>
+    </append>
+    <!-- endregion -->
+
+    <!-- region OLD_STOVE -->
+    <append xpath="/blocks/block[@name='cntStoveOldVer1Closed']">
+        <property class="UpgradeBlock">
+            <property name="ToBlock" value="stoveOld_restored"/>
+            <property name="Item" value="resourceRepairKit"/>
+            <property name="ItemCount" value="1"/>
+            <property name="UpgradeHitCount" value="5"/>
+        </property>
+    </append>
+    <append xpath="/blocks/block[@name='cntStoveOldVer1Closed_Player']">
+        <property class="UpgradeBlock">
+            <property name="ToBlock" value="stoveOld_restored"/>
+            <property name="Item" value="resourceRepairKit"/>
+            <property name="ItemCount" value="1"/>
+            <property name="UpgradeHitCount" value="5"/>
+        </property>
+    </append>
+    <append xpath="/blocks/block[@name='cntStoveOldVer2Open']">
+        <property class="UpgradeBlock">
+            <property name="ToBlock" value="stoveOld_restored"/>
+            <property name="Item" value="resourceRepairKit"/>
+            <property name="ItemCount" value="1"/>
+            <property name="UpgradeHitCount" value="5"/>
+        </property>
+    </append>
+    <!-- endregion -->
+
+    <!-- region MODERN_STOVE -->
+    <append xpath="/blocks/block[@name='cntStoveModernVer1Closed']">
+        <property class="UpgradeBlock">
+            <property name="ToBlock" value="stoveModern_restored"/>
+            <property name="Item" value="resourceRepairKit"/>
+            <property name="ItemCount" value="1"/>
+            <property name="UpgradeHitCount" value="5"/>
+        </property>
+    </append>
+    <append xpath="/blocks/block[@name='cntStoveModernVer1Closed_Player']">
+        <property class="UpgradeBlock">
+            <property name="ToBlock" value="stoveModern_restored"/>
+            <property name="Item" value="resourceRepairKit"/>
+            <property name="ItemCount" value="1"/>
+            <property name="UpgradeHitCount" value="5"/>
+        </property>
+    </append>
+    <append xpath="/blocks/block[@name='cntStoveModernVer2Open']">
+        <property class="UpgradeBlock">
+            <property name="ToBlock" value="stoveModern_restored"/>
+            <property name="Item" value="resourceRepairKit"/>
+            <property name="ItemCount" value="1"/>
+            <property name="UpgradeHitCount" value="5"/>
+        </property>
+    </append>
+    <!-- endregion -->
+
+    <!-- region GAS_RANGES -->
+    <append xpath="/blocks/block[@name='cntgasRangeWhite']">
+        <property class="UpgradeBlock">
+            <property name="ToBlock" value="gasRangeWhite_restored"/>
+            <property name="Item" value="resourceRepairKit"/>
+            <property name="ItemCount" value="1"/>
+            <property name="UpgradeHitCount" value="5"/>
+        </property>
+    </append>
+    <append xpath="/blocks/block[@name='cntgasRangeGrey']">
+        <property class="UpgradeBlock">
+            <property name="ToBlock" value="gasRangeGrey_restored"/>
+            <property name="Item" value="resourceRepairKit"/>
+            <property name="ItemCount" value="1"/>
+            <property name="UpgradeHitCount" value="5"/>
+        </property>
+    </append>
+    <append xpath="/blocks/block[@name='cntgasRangeBlack']">
+        <property class="UpgradeBlock">
+            <property name="ToBlock" value="gasRangeBlack_restored"/>
+            <property name="Item" value="resourceRepairKit"/>
+            <property name="ItemCount" value="1"/>
+            <property name="UpgradeHitCount" value="5"/>
+        </property>
+    </append>
+    <!-- endregion -->
+    <!-- endregion -->
+
+    <!-- RESTORED -->
+    <append xpath="/blocks">
+        <block name="restoredOvens_master">
+            <property name="CreativeMode" value="None"/>
+            <!-- Class -->
+            <property name="Class" value="Campfire"/>
+            <property name="Group" value="Basics,Food/Cooking,Building,advBuilding"/>
+            <property class="Workstation">
+                <property name="CraftingAreaRecipes" value="campfire"/>
+                <property name="Modules" value="tools,output,fuel,input"/>
+                <property name="Collide" value="melee,bullet,arrow,rocket"/>
+            </property>
+
+            <property name="CanPickup" value="true"/>
+            <property name="TakeDelay" value="5"/>
+            <property name="ActivationDistance" value="3"/>
+            <!-- UI_Info -->
+            <property name="ItemTypeIcon" value="vise"/>
+            <property name="DescriptionKey" value="campfireDesc"/>
+            <property name="PickupJournalEntry" value="campfireTip"/>
+            <property name="WorkstationIcon" value="ui_game_symbol_campfire"/>
+            <property name="WorkstationJournalTip" value="heatMapTip"/>
+            <property name="CraftIcon" value="ui_game_symbol_spatula"/>
+            <property name="CraftActionName" value="lblContextActionCook"/>
+            <!-- Visual -->
+            <property name="Material" value="Mmetal"/>
+            <property name="Shape" value="ModelEntity"/>
+            <property name="Model" value="@:Entities/LootContainers/wallOvenFullPrefab.prefab"/>
+            <property name="WaterFlow" value="permitted"/>
+            <!-- Placement -->
+            <property name="Place" value="TowardsPlacerInverted"/>
+            <property name="Collide" value="movement,melee,bullet,arrow,rocket"/>
+            <!-- Interaction -->
+            <property name="HeatMapStrength" value="5"/>
+            <property name="HeatMapTime" value="5000"/>
+            <property name="HeatMapFrequency" value="1000"/>
+            <property name="ActiveRadiusEffects" value="buffCampfireAOE(3)"/>
+            <property name="CraftSound" value="campfire_cook_click"/>
+            <property name="CraftCompleteSound" value="campfire_complete_item"/>
+            <!-- Sorting -->
+            <property name="FilterTags" value="MC_building,SC_electrical,A21_NEW"/>
+        </block>
+
+        <!-- region WALL_OVENS -->
+        <block name="wallOvenWhite_restored">
+            <property name="Extends" value="restoredOvens_master"/>
+            <property name="CreativeMode" value="Player"/>
+            <!-- UI_Info -->
+            <property name="CustomIcon" value="cntwallOvenFullWhite"/>
+            <property name="CustomIconTint" value="A0A0A0"/>
+            <property name="TintColor" value="A0A0A0"/>
+            <!-- Visual -->
+            <property name="Model" value="@:Entities/LootContainers/wallOvenFullPrefab.prefab"/>
+            <property name="ModelOffset" value="0,0.5,-1"/>
+            <property name="ParticleName" value="chemistryStation"/>
+            <property name="ParticleOffset" value="-0.5,0.5,-0.5"/>
+
+            <property class="RepairItems">
+                <property name="resourceMechanicalParts" value="1"/>
+                <property name="resourceMetalPipe" value="2"/>
+            </property>
+        </block>
+
+        <block name="wallOvenGrey_restored">
+            <property name="Extends" value="restoredOvens_master"/>
+            <property name="CreativeMode" value="Player"/>
+
+            <!-- UI_Info -->
+            <property name="CustomIcon" value="cntwallOvenFullWhite"/>
+            <property name="CustomIconTint" value="646464"/>
+            <!-- Visual -->
+            <property name="Model" value="@:Entities/LootContainers/wallOvenFullPrefab.prefab"/>
+            <property name="ModelOffset" value="0,0.5,-1"/>
+            <property name="TintColor" value="646464"/>
+
+            <property name="ParticleName" value="chemistryStation"/>
+            <property name="ParticleOffset" value="-0.5,0.5,-0.5"/>
+
+<!--            <dropextendsoff/>-->
+            <drop event="Destroy" name="wallOvenGrey_restored" count="1"/>
+
+            <property class="RepairItems">
+                <property name="resourceMechanicalParts" value="1"/>
+                <property name="resourceMetalPipe" value="2"/>
+            </property>
+        </block>
+
+        <block name="wallOvenBlack_restored">
+            <property name="Extends" value="restoredOvens_master"/>
+            <property name="CreativeMode" value="Player"/>
+
+            <!-- UI_Info -->
+            <property name="CustomIcon" value="cntwallOvenFullWhite"/>
+            <property name="CustomIconTint" value="3C3C3C"/>
+
+            <!-- Visual -->
+            <property name="Model" value="@:Entities/LootContainers/wallOvenFullPrefab.prefab"/>
+            <property name="ModelOffset" value="0,0.5,-1"/>
+            <property name="TintColor" value="3C3C3C"/>
+
+            <property name="ParticleName" value="chemistryStation"/>
+            <property name="ParticleOffset" value="-0.5,0.5,-0.5"/>
+
+            <drop event="Destroy" name="wallOvenBlack_restored" count="1"/>
+
+            <property class="RepairItems">
+                <property name="resourceMechanicalParts" value="1"/>
+                <property name="resourceMetalPipe" value="2"/>
+            </property>
+        </block>
+        <!-- endregion -->
+
+        <!-- region WOOD_STOVE -->
+        <block name="woodBurningStove_restored">
+            <property name="Extends" value="restoredOvens_master"/>
+            <property name="CreativeMode" value="Player"/>
+            <property name="CustomIcon" value="cntWoodBurningStove"/>
+
+            <property name="Model" value="Entities/Furniture/woodBurningStovePrefab"/>
+            <property name="ModelOffset" value="0,0.5,0"/>
+            <property name="Material" value="Mmetal_weak"/>
+            <property name="Light" value="0.5"/>
+
+            <property name="ParticleName" value="chemistryStation"/>
+            <property name="ParticleOffset" value="-0.5,0.8,0.6"/>
+            <drop event="Destroy" name="woodBurningStove_restored" count="1"/>
+            <property class="RepairItems">
+                <property name="resourceScrapIron" value="10"/>
+                <property name="resourceCoal" value="10"/>
+            </property>
+        </block>
+        <!-- endregion -->
+
+        <!-- region OLD_STOVE -->
+        <block name="stoveOld_restored">
+            <property name="Extends" value="restoredOvens_master"/>
+            <property name="CreativeMode" value="Player"/>
+
+            <property name="CustomIcon" value="cntStoveOldVer1Closed"/>
+
+            <property name="Model" value="@:Entities/LootContainers/stoveElectricRetro_01Prefab.prefab"/>
+            <property name="ModelOffset" value="0,0.5,0"/>
+
+            <property name="ParticleName" value="chemistryStation"/>
+            <property name="ParticleOffset" value="-0.5,0.5,0.5"/>
+            <drop event="Destroy" name="stoveOld_restored" count="1"/>
+            <property class="RepairItems">
+                <property name="resourceForgedIron" value="4"/>
+                <property name="resourceElectricParts" value="4"/>
+            </property>
+        </block>
+        <!-- endregion -->
+
+        <!-- region MODERN_STOVE -->
+        <block name="stoveModern_restored">
+            <property name="Extends" value="restoredOvens_master"/>
+            <property name="CreativeMode" value="Player"/>
+
+            <property name="CustomIcon" value="cntStoveModernVer1Closed"/>
+
+            <property name="Model" value="@:Entities/LootContainers/stoveElectricModern_01Prefab.prefab"/>
+            <property name="ModelOffset" value="0,0.5,0"/>
+
+            <property name="ParticleName" value="chemistryStation"/>
+            <property name="ParticleOffset" value="-0.5,0.5,0.5"/>
+            <drop event="Destroy" name="stoveModern_restored" count="1"/>
+            <property class="RepairItems">
+                <property name="resourceForgedIron" value="4"/>
+                <property name="resourceElectricParts" value="4"/>
+            </property>
+        </block>
+        <!-- endregion -->
+
+        <!-- region GAS_RANGE -->
+        <block name="gasRangeWhite_restored">
+            <property name="Extends" value="restoredOvens_master"/>
+            <property name="CreativeMode" value="Player"/>
+
+            <property name="CustomIcon" value="cntgasRangeWhite"/>
+            <property name="CustomIconTint" value="C3B0A3"/>
+
+            <property name="Model" value="Entities/Appliances/gasRangePrefab"/>
+            <property name="ModelOffset" value="0,0.5,0"/>
+            <property name="TintColor" value="C3B0A3"/>
+
+            <property name="ParticleName" value="campfire"/>
+            <property name="ParticleOffset" value="0.5,0,0.5"/>
+
+            <drop event="Destroy" name="gasRangeWhite_restored" count="1"/>
+            <property class="RepairItems">
+                <property name="resourceForgedIron" value="4"/>
+                <property name="resourceElectricParts" value="4"/>
+            </property>
+        </block>
+
+        <block name="gasRangeGrey_restored">
+            <property name="Extends" value="restoredOvens_master"/>
+            <property name="CreativeMode" value="Player"/>
+
+            <property name="CustomIcon" value="cntgasRangeWhite"/>
+            <property name="CustomIconTint" value="535353"/>
+
+            <property name="Model" value="Entities/Appliances/gasRangePrefab"/>
+            <property name="ModelOffset" value="0,0.5,0"/>
+            <property name="TintColor" value="535353"/>
+
+            <property name="ParticleName" value="campfire"/>
+            <property name="ParticleOffset" value="0.5,0,0.5"/>
+
+            <drop event="Destroy" name="gasRangeGrey_restored" count="1"/>
+            <property class="RepairItems">
+                <property name="resourceForgedIron" value="4"/>
+                <property name="resourceElectricParts" value="4"/>
+            </property>
+        </block>
+
+        <block name="gasRangeBlack_restored">
+            <property name="Extends" value="restoredOvens_master"/>
+            <property name="CreativeMode" value="Player"/>
+
+            <property name="CustomIcon" value="cntgasRangeWhite"/>
+            <property name="CustomIconTint" value="262626"/>
+
+            <property name="Model" value="Entities/Appliances/gasRangePrefab"/>
+            <property name="ModelOffset" value="0,0.5,0"/>
+            <property name="TintColor" value="262626"/>
+
+            <property name="ParticleName" value="campfire"/>
+            <property name="ParticleOffset" value="0.5,0,0.5"/>
+
+            <drop event="Destroy" name="gasRangeBlack_restored" count="1"/>
+            <property class="RepairItems">
+                <property name="resourceForgedIron" value="4"/>
+                <property name="resourceElectricParts" value="4"/>
+            </property>
+        </block>
+        <!-- endregion -->
+    </append>
+</configs>

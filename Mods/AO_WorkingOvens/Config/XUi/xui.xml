@@ -1,0 +1,112 @@
+<config>
+    <append xpath="/xui/ruleset">
+        <window_group name="workstation_wallOvenWhite_restored"
+                      controller="XUiC_WorkstationWindowGroup"
+                      open_backpack_on_open="true"
+                      close_compass_on_open="true">
+            <window name="windowCraftingList"/><!-- Список крафта -->
+            <window name="craftingInfoPanel"/><!--Крафт подробно-->
+            <window name="windowCraftingQueue"/><!--Очередь крафта-->
+            <window name="windowToolsCampfire"/><!--Инструменты-->
+            <window name="windowFuel"/><!--Топливо-->
+            <window name="windowOutput"/><!--Выход-->
+            <window name="windowNonPagingHeader"/>
+        </window_group>
+        <window_group name="workstation_wallOvenGrey_restored"
+                      controller="XUiC_WorkstationWindowGroup"
+                      open_backpack_on_open="true"
+                      close_compass_on_open="true">
+            <window name="windowCraftingList"/>
+            <window name="craftingInfoPanel"/>
+            <window name="windowCraftingQueue"/>
+            <window name="windowToolsCampfire"/>
+            <window name="windowFuel"/>
+            <window name="windowOutput"/>
+            <window name="windowNonPagingHeader"/>
+        </window_group>
+        <window_group name="workstation_wallOvenBlack_restored"
+                      controller="XUiC_WorkstationWindowGroup"
+                      open_backpack_on_open="true"
+                      close_compass_on_open="true">
+            <window name="windowCraftingList"/>
+            <window name="craftingInfoPanel"/>
+            <window name="windowCraftingQueue"/>
+            <window name="windowToolsCampfire"/>
+            <window name="windowFuel"/>
+            <window name="windowOutput"/>
+            <window name="windowNonPagingHeader"/>
+        </window_group>
+        <window_group name="workstation_woodBurningStove_restored"
+                      controller="XUiC_WorkstationWindowGroup"
+                      open_backpack_on_open="true"
+                      close_compass_on_open="true">
+            <window name="windowCraftingList"/>
+            <window name="craftingInfoPanel"/>
+            <window name="windowCraftingQueue"/>
+            <window name="windowToolsCampfire"/>
+            <window name="windowFuel"/>
+            <window name="windowOutput"/>
+            <window name="windowNonPagingHeader"/>
+        </window_group>
+        <window_group name="workstation_stoveOld_restored"
+                      controller="XUiC_WorkstationWindowGroup"
+                      open_backpack_on_open="true"
+                      close_compass_on_open="true">
+            <window name="windowCraftingList"/>
+            <window name="craftingInfoPanel"/>
+            <window name="windowCraftingQueue"/>
+            <window name="windowToolsCampfire"/>
+            <window name="windowFuel"/>
+            <window name="windowOutput"/>
+            <window name="windowNonPagingHeader"/>
+        </window_group>
+        <window_group name="workstation_stoveModern_restored"
+                      controller="XUiC_WorkstationWindowGroup"
+                      open_backpack_on_open="true"
+                      close_compass_on_open="true">
+            <window name="windowCraftingList"/>
+            <window name="craftingInfoPanel"/>
+            <window name="windowCraftingQueue"/>
+            <window name="windowToolsCampfire"/>
+            <window name="windowFuel"/>
+            <window name="windowOutput"/>
+            <window name="windowNonPagingHeader"/>
+        </window_group>
+        <window_group name="workstation_gasRangeWhite_restored"
+                      controller="XUiC_WorkstationWindowGroup"
+                      open_backpack_on_open="true"
+                      close_compass_on_open="true">
+            <window name="windowCraftingList"/>
+            <window name="craftingInfoPanel"/>
+            <window name="windowCraftingQueue"/>
+            <window name="windowToolsCampfire"/>
+            <window name="windowFuel"/>
+            <window name="windowOutput"/>
+            <window name="windowNonPagingHeader"/>
+        </window_group>
+        <window_group name="workstation_gasRangeGrey_restored"
+                      controller="XUiC_WorkstationWindowGroup"
+                      open_backpack_on_open="true"
+                      close_compass_on_open="true">
+            <window name="windowCraftingList"/>
+            <window name="craftingInfoPanel"/>
+            <window name="windowCraftingQueue"/>
+            <window name="windowToolsCampfire"/>
+            <window name="windowFuel"/>
+            <window name="windowOutput"/>
+            <window name="windowNonPagingHeader"/>
+        </window_group>
+        <window_group name="workstation_gasRangeBlack_restored"
+                      controller="XUiC_WorkstationWindowGroup"
+                      open_backpack_on_open="true"
+                      close_compass_on_open="true">
+            <window name="windowCraftingList"/>
+            <window name="craftingInfoPanel"/>
+            <window name="windowCraftingQueue"/>
+            <window name="windowToolsCampfire"/>
+            <window name="windowFuel"/>
+            <window name="windowOutput"/>
+            <window name="windowNonPagingHeader"/>
+        </window_group>
+    </append>
+</config>

@@ -1,0 +1,24 @@
+Key,english
+encyclopediaharvestingToolsSkillMagazineDesc,Learn to craft your own tools from the best in the industry!\n\nImproves harvesting tool crafting skill 5 points.
+encyclopediarepairToolsSkillMagazineDesc,"From the home repair enthusiast to the professional repairman, we’ve got you covered!\n\nImproves repair tool crafting skill 5 points."
+encyclopediasalvageToolsSkillMagazineDesc,One man’s junk is another man’s treasure!\n\nImproves salvage tool crafting skill 5 points.
+encyclopediaknucklesSkillMagazineDesc,Tired of being bullied? Give your rivals a fat lip with a knuckle sandwich!\n\nImproves knuckles crafting skill 5 points.
+encyclopediabladesSkillMagazineDesc,Be a real knife guy! Get the best info on all your bladed weapon needs.\n\nImproves blade crafting skill 5 points.
+encyclopediaclubsSkillMagazineDesc,"Check out all the latest clubs and bats for sports, home defense, and gang wars!\n\nImproves club crafting skill 5 points."
+encyclopediasledgehammersSkillMagazineDesc,"If you like smashing stuff, Get Hammered has you covered!\n\nImproves sledgehammer crafting skill 5 points."
+encyclopediaspearsSkillMagazineDesc,"If you like poking holes in things, Sharp Sticks has you covered!\n\nImproves spear crafting skill 5 points."
+encyclopediabowsSkillMagazineDesc,Who has time to stand in line at the hunting store? Make your own bows and save your money for the next issue of Bow Hunter’s Magazine!\n\nImproves bow crafting skill 5 points.
+encyclopediahandgunsSkillMagazineDesc,"Do you feel lucky? Well, luck is for losers! Be prepared and learn how to craft your own handguns.\n\nImproves handgun crafting skill 5 points."
+encyclopediashotgunsSkillMagazineDesc,"Whether it’s single shot, double barrel, pump, or auto shotguns, we have you covered!\n\nImproves shotgun crafting skill 5 points."
+encyclopediariflesSkillMagazineDesc,Check out vintage and modern hunting rifles in this amazing issue of Rifle World.\n\nImproves rifle crafting skill 5 points.
+encyclopediamachineGunsSkillMagazineDesc,Check out the latest assault rifles on the market and even learn how to build your own from common household items!\n\nImproves assault rifle crafting skill 5 points.
+encyclopediaexplosivesSkillMagazineDesc,"Blowing stuff up is our business, and business is good! If it goes boom, we cover it in this explosive issue!\n\nImproves explosives crafting skill 5 points."
+encyclopediaroboticsSkillMagazineDesc,Learn to create do-it-yourself electronics from everyday junk and be the envy of your peers!\n\nImproves robotics crafting skill 5 points.
+encyclopediaarmorSkillMagazineDesc,Check out all the latest armor designs for the modern warrior!\n\nImproves armor crafting skill 5 points.
+encyclopediamedicalSkillMagazineDesc,Learn life saving skills! Make bandages and medical supplies from common household items.\n\nImproves medical crafting skill 5 points.
+encyclopediafoodSkillMagazineDesc,Learn to cook dozens of amazing meals and become a Master Chef!\n\nImproves food crafting skill 5 points.
+encyclopediaseedSkillMagazineDesc,Short on money for seeds? Learn how to get seeds from your leftover foods!\n\nImproves seed crafting skill 5 points.
+encyclopediaelectricianSkillMagazineDesc,Let there be light! Learn how to create your own generators and electrical powered items.\n\nImproves electrical crafting skill 5 points.
+encyclopediatrapsSkillMagazineDesc,Do you have pests? Check out these crazy traps for pest control and home security.\n\nImproves trap crafting skill 5 points.
+encyclopediaworkstationSkillMagazineDesc,"Learn to outfit your shop with forges, work benches, cement mixers, and chemistry stations!\n\nImproves workstation crafting skill 5 points."
+encyclopediavehiclesSkillMagazineDesc,"Check out our bikes, off road vehicles, gyrocoptors, and more!\n\nImproves vehicle crafting skill 5 points."

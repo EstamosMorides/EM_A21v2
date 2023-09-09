@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+	<ModInfo>
+		<Name value="Craftable Lights"/>
+		<Description value="Add a crafting recipe for most lights in the game."/>
+		<Author value="LuckyIsh"/>
+		<Version value="1.0"/>
+	</ModInfo>
+</xml>

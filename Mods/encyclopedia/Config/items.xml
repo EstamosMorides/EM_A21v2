@@ -1,0 +1,328 @@
+<configs>
+	
+<append xpath="/items">	
+		<!-- *** Harvesting_Tools_Skill_Magazine -->
+<item name="encyclopediaharvestingToolsSkillMagazine">
+	<property name="Extends" value="masterSkillMagazine"/>
+	<property name="Tags" value="harvestingToolsCSM"/>
+	<property name="CustomIcon" value="bookToolsDigest"/>
+	<property name="DescriptionKey" value="encyclopediaharvestingToolsSkillMagazineDesc"/>
+	<property name="Unlocks" value="craftingHarvestingTools"/>
+
+	<effect_group tiered="false">
+		<triggered_effect trigger="onSelfPrimaryActionEnd" action="AddProgressionLevel" progression_name="craftingHarvestingTools" level="5"/> <!-- level="-1" sets a perk to max level -->
+		<triggered_effect trigger="onSelfPrimaryActionEnd" action="GiveExp" exp="250"/>
+	</effect_group>
+</item>
+
+	<!-- *** Repair_Tools_Skill_Magazine -->
+<item name="encyclopediarepairToolsSkillMagazine">
+	<property name="Extends" value="masterSkillMagazine"/>
+	<property name="Tags" value="repairToolsCSM"/>
+	<property name="CustomIcon" value="bookHandyLand"/>
+	<property name="DescriptionKey" value="encyclopediarepairToolsSkillMagazineDesc"/>
+	<property name="Unlocks" value="craftingRepairTools"/>
+
+	<effect_group tiered="false">
+		<triggered_effect trigger="onSelfPrimaryActionEnd" action="AddProgressionLevel" progression_name="craftingRepairTools" level="5"/> <!-- level="-1" sets a perk to max level -->
+		<triggered_effect trigger="onSelfPrimaryActionEnd" action="GiveExp" exp="250"/>
+	</effect_group>
+</item>
+
+	<!-- *** Salvage_Tools_Skill_Magazine -->
+<item name="encyclopediasalvageToolsSkillMagazine">
+	<property name="Tags" value="salvageToolsCSM"/>
+	<property name="Extends" value="masterSkillMagazine"/>
+	<property name="CustomIcon" value="bookScrapping4Fun"/>
+	<property name="DescriptionKey" value="encyclopediasalvageToolsSkillMagazineDesc"/>
+	<property name="Unlocks" value="craftingSalvageTools"/>
+
+	<effect_group tiered="false">
+		<triggered_effect trigger="onSelfPrimaryActionEnd" action="AddProgressionLevel" progression_name="craftingSalvageTools" level="5"/> <!-- level="-1" sets a perk to max level -->
+		<triggered_effect trigger="onSelfPrimaryActionEnd" action="GiveExp" exp="250"/>
+	</effect_group>
+</item>
+
+	<!-- *** Knuckles_Skill_Magazine -->
+<item name="encyclopediaknucklesSkillMagazine">
+	<property name="Extends" value="masterSkillMagazine"/>
+	<property name="Tags" value="knucklesCSM"/>
+	<property name="CustomIcon" value="bookFuriousFists"/>
+	<property name="DescriptionKey" value="encyclopediaknucklesSkillMagazineDesc"/>
+	<property name="Unlocks" value="craftingKnuckles"/>
+
+	<effect_group tiered="false">
+		<triggered_effect trigger="onSelfPrimaryActionEnd" action="AddProgressionLevel" progression_name="craftingKnuckles" level="5"/> <!-- level="-1" sets a perk to max level -->
+		<triggered_effect trigger="onSelfPrimaryActionEnd" action="GiveExp" exp="250"/>
+	</effect_group>
+</item>
+
+	<!-- *** Blades_Skill_Magazine -->
+<item name="encyclopediabladesSkillMagazine">
+	<property name="Extends" value="masterSkillMagazine"/>
+	<property name="Tags" value="bladesCSM"/>
+	<property name="CustomIcon" value="bookKnifeGuy"/>
+	<property name="DescriptionKey" value="encyclopediabladesSkillMagazineDesc"/>
+	<property name="Unlocks" value="craftingBlades"/>
+
+	<effect_group tiered="false">
+		<triggered_effect trigger="onSelfPrimaryActionEnd" action="AddProgressionLevel" progression_name="craftingBlades" level="5"/> <!-- level="-1" sets a perk to max level -->
+		<triggered_effect trigger="onSelfPrimaryActionEnd" action="GiveExp" exp="250"/>
+	</effect_group>
+</item>
+
+	<!-- *** Clubs_Skill_Magazine -->
+<item name="encyclopediaclubsSkillMagazine">
+	<property name="Extends" value="masterSkillMagazine"/>
+	<property name="Tags" value="clubsCSM"/>
+	<property name="CustomIcon" value="bookBigHitters"/>
+	<property name="DescriptionKey" value="encyclopediaclubsSkillMagazineDesc"/>
+	<property name="Unlocks" value="craftingClubs"/>
+	
+	<effect_group tiered="false">
+		<triggered_effect trigger="onSelfPrimaryActionEnd" action="AddProgressionLevel" progression_name="craftingClubs" level="5"/> <!-- level="-1" sets a perk to max level -->
+		<triggered_effect trigger="onSelfPrimaryActionEnd" action="GiveExp" exp="250"/>
+	</effect_group>
+</item>
+
+	<!-- *** Sledgehammers_Skill_Magazine -->
+<item name="encyclopediasledgehammersSkillMagazine">
+	<property name="Extends" value="masterSkillMagazine"/>
+	<property name="Tags" value="sledgehammersCSM"/>
+	<property name="CustomIcon" value="bookGetHammered"/>
+	<property name="DescriptionKey" value="encyclopediasledgehammersSkillMagazineDesc"/>
+	<property name="Unlocks" value="craftingSledgehammers"/>
+
+	<effect_group tiered="false">
+		<triggered_effect trigger="onSelfPrimaryActionEnd" action="AddProgressionLevel" progression_name="craftingSledgehammers" level="5"/> <!-- level="-1" sets a perk to max level -->
+		<triggered_effect trigger="onSelfPrimaryActionEnd" action="GiveExp" exp="250"/>
+	</effect_group>
+</item>
+
+	<!-- *** Spears_Skill_Magazine -->
+<item name="encyclopediaspearsSkillMagazine">
+	<property name="Extends" value="masterSkillMagazine"/>
+	<property name="Tags" value="spearsCSM"/>
+	<property name="CustomIcon" value="bookSharpSticks"/>
+	<property name="DescriptionKey" value="encyclopediaspearsSkillMagazineDesc"/>
+	<property name="Unlocks" value="craftingSpears"/>
+
+	<effect_group tiered="false">
+		<triggered_effect trigger="onSelfPrimaryActionEnd" action="AddProgressionLevel" progression_name="craftingSpears" level="5"/> <!-- level="-1" sets a perk to max level -->
+		<triggered_effect trigger="onSelfPrimaryActionEnd" action="GiveExp" exp="250"/>
+	</effect_group>
+</item>
+
+	<!-- *** Bows_Skill_Magazine -->
+<item name="encyclopediabowsSkillMagazine">
+	<property name="Extends" value="masterSkillMagazine"/>
+	<property name="Tags" value="bowsCSM"/>
+	<property name="CustomIcon" value="bookBowHunters"/>
+	<property name="DescriptionKey" value="encyclopediabowsSkillMagazineDesc"/>
+	<property name="Unlocks" value="craftingBows"/>
+
+	<effect_group tiered="false">
+		<triggered_effect trigger="onSelfPrimaryActionEnd" action="AddProgressionLevel" progression_name="craftingBows" level="5"/> <!-- level="-1" sets a perk to max level -->
+		<triggered_effect trigger="onSelfPrimaryActionEnd" action="GiveExp" exp="250"/>
+	</effect_group>
+</item>
+
+	<!-- *** Handguns_Skill_Magazine -->
+<item name="encyclopediahandgunsSkillMagazine">
+	<property name="Extends" value="masterSkillMagazine"/>
+	<property name="Tags" value="handgunsCSM"/>
+	<property name="CustomIcon" value="bookHandgunMagazine"/>
+	<property name="DescriptionKey" value="encyclopediahandgunsSkillMagazineDesc"/>
+	<property name="Unlocks" value="craftingHandguns"/>
+	
+	<effect_group tiered="false">
+		<triggered_effect trigger="onSelfPrimaryActionEnd" action="AddProgressionLevel" progression_name="craftingHandguns" level="5"/> <!-- level="-1" sets a perk to max level -->
+		<triggered_effect trigger="onSelfPrimaryActionEnd" action="GiveExp" exp="250"/>
+	</effect_group>
+</item>
+
+	<!-- *** Shotguns_Skill_Magazine -->
+<item name="encyclopediashotgunsSkillMagazine">
+	<property name="Extends" value="masterSkillMagazine"/>
+	<property name="Tags" value="shotgunsCSM"/>
+	<property name="CustomIcon" value="bookShotgunWeekly"/>
+	<property name="DescriptionKey" value="encyclopediashotgunsSkillMagazineDesc"/>
+	<property name="Unlocks" value="craftingShotguns"/>
+	
+	<effect_group tiered="false">
+		<triggered_effect trigger="onSelfPrimaryActionEnd" action="AddProgressionLevel" progression_name="craftingShotguns" level="5"/> <!-- level="-1" sets a perk to max level -->
+		<triggered_effect trigger="onSelfPrimaryActionEnd" action="GiveExp" exp="250"/>
+	</effect_group>
+</item>
+
+	<!-- *** Rifles_Skill_Magazine -->
+<item name="encyclopediariflesSkillMagazine">
+	<property name="Extends" value="masterSkillMagazine"/>
+	<property name="Tags" value="riflesCSM"/>
+	<property name="CustomIcon" value="bookRifleWorld"/>
+	<property name="DescriptionKey" value="encyclopediariflesSkillMagazineDesc"/>
+	<property name="Unlocks" value="craftingRifles"/>
+	
+	<effect_group tiered="false">
+		<triggered_effect trigger="onSelfPrimaryActionEnd" action="AddProgressionLevel" progression_name="craftingRifles" level="5"/> <!-- level="-1" sets a perk to max level -->
+		<triggered_effect trigger="onSelfPrimaryActionEnd" action="GiveExp" exp="250"/>
+	</effect_group>
+</item>
+
+	<!-- *** Machine_Guns_Skill_Magazine -->
+<item name="encyclopediamachineGunsSkillMagazine">
+	<property name="Extends" value="masterSkillMagazine"/>
+	<property name="Tags" value="machineGunsCSM"/>
+	<property name="CustomIcon" value="bookTacticalWarfare"/>
+	<property name="DescriptionKey" value="encyclopediamachineGunsSkillMagazineDesc"/>
+	<property name="Unlocks" value="craftingMachineGuns"/>
+	
+	<effect_group tiered="false">
+		<triggered_effect trigger="onSelfPrimaryActionEnd" action="AddProgressionLevel" progression_name="craftingMachineGuns" level="5"/> <!-- level="-1" sets a perk to max level -->
+		<triggered_effect trigger="onSelfPrimaryActionEnd" action="GiveExp" exp="250"/>
+	</effect_group>
+</item>
+
+	<!-- *** Explosives_Skill_Magazine -->
+<item name="encyclopediaexplosivesSkillMagazine">
+	<property name="Extends" value="masterSkillMagazine"/>
+	<property name="Tags" value="explosivesCSM"/>
+	<property name="CustomIcon" value="bookExplosiveMagazine"/>
+	<property name="DescriptionKey" value="encyclopediaexplosivesSkillMagazineDesc"/>
+	<property name="Unlocks" value="craftingExplosives"/>
+	
+	<effect_group tiered="false">
+		<triggered_effect trigger="onSelfPrimaryActionEnd" action="AddProgressionLevel" progression_name="craftingExplosives" level="5"/> <!-- level="-1" sets a perk to max level -->
+		<triggered_effect trigger="onSelfPrimaryActionEnd" action="GiveExp" exp="250"/>
+	</effect_group>
+</item>
+
+	<!-- *** Robotics_Skill_Magazine -->
+<item name="encyclopediaroboticsSkillMagazine">
+	<property name="Extends" value="masterSkillMagazine"/>
+	<property name="Tags" value="roboticsCSM"/>
+	<property name="CustomIcon" value="bookTechPlanet"/>
+	<property name="DescriptionKey" value="encyclopediaroboticsSkillMagazineDesc"/>
+	<property name="Unlocks" value="craftingRobotics"/>
+	
+	<effect_group tiered="false">
+		<triggered_effect trigger="onSelfPrimaryActionEnd" action="AddProgressionLevel" progression_name="craftingRobotics" level="5"/> <!-- level="-1" sets a perk to max level -->
+		<triggered_effect trigger="onSelfPrimaryActionEnd" action="GiveExp" exp="250"/>
+	</effect_group>
+</item>
+
+	<!-- *** Armor_Skill_Magazine -->
+<item name="encyclopediaarmorSkillMagazine">
+	<property name="Extends" value="masterSkillMagazine"/>
+	<property name="Tags" value="armorCSM"/>
+	<property name="CustomIcon" value="bookArmoredUp"/>
+	<property name="DescriptionKey" value="encyclopediaarmorSkillMagazineDesc"/>
+	<property name="Unlocks" value="encyclopediacraftingArmor"/>
+	
+	<effect_group tiered="false">
+		<triggered_effect trigger="onSelfPrimaryActionEnd" action="AddProgressionLevel" progression_name="craftingArmor" level="5"/> <!-- level="-1" sets a perk to max level -->
+		<triggered_effect trigger="onSelfPrimaryActionEnd" action="GiveExp" exp="250"/>
+	</effect_group>
+</item>
+
+	<!-- *** Medical_Skill_Magazine -->
+<item name="encyclopediamedicalSkillMagazine">
+	<property name="Extends" value="masterSkillMagazine"/>
+	<property name="Tags" value="medicalCSM"/>
+	<property name="CustomIcon" value="bookMedicalJournal"/>
+	<property name="DescriptionKey" value="encyclopediamedicalSkillMagazineDesc"/>
+	<property name="Unlocks" value="craftingMedical"/>
+	
+	<effect_group tiered="false">
+		<triggered_effect trigger="onSelfPrimaryActionEnd" action="AddProgressionLevel" progression_name="craftingMedical" level="5"/> <!-- level="-1" sets a perk to max level -->
+		<triggered_effect trigger="onSelfPrimaryActionEnd" action="GiveExp" exp="250"/>
+	</effect_group>
+</item>
+
+	<!-- *** Food_Skill_Magazine -->
+<item name="encyclopediafoodSkillMagazine">
+	<property name="Extends" value="masterSkillMagazine"/>
+	<property name="Tags" value="foodCSM"/>
+	<property name="CustomIcon" value="bookHomeCookingWeekly"/>
+	<property name="DescriptionKey" value="encyclopediafoodSkillMagazineDesc"/>
+	<property name="Unlocks" value="craftingFood"/>
+	
+	<effect_group tiered="false">
+		<triggered_effect trigger="onSelfPrimaryActionEnd" action="AddProgressionLevel" progression_name="craftingFood" level="5"/> <!-- level="-1" sets a perk to max level -->
+		<triggered_effect trigger="onSelfPrimaryActionEnd" action="GiveExp" exp="250"/>
+	</effect_group>
+</item>
+
+	<!-- *** Seed_Skill_Magazine -->
+<item name="encyclopediaseedSkillMagazine">
+	<property name="Extends" value="masterSkillMagazine"/>
+	<property name="Tags" value="seedCSM"/>
+	<property name="CustomIcon" value="bookSouthernFarming"/>
+	<property name="DescriptionKey" value="encyclopediaseedSkillMagazineDesc"/>
+	<property name="Unlocks" value="craftingSeeds"/>
+	
+	<effect_group tiered="false">
+		<triggered_effect trigger="onSelfPrimaryActionEnd" action="AddProgressionLevel" progression_name="craftingSeeds" level="5"/> <!-- level="-1" sets a perk to max level -->
+		<triggered_effect trigger="onSelfPrimaryActionEnd" action="GiveExp" exp="250"/>
+	</effect_group>
+</item>
+
+	<!-- *** Electrician_Skill_Magazine -->
+<item name="encyclopediaelectricianSkillMagazine">
+	<property name="Extends" value="masterSkillMagazine"/>
+	<property name="Tags" value="electricianCSM"/>
+	<property name="CustomIcon" value="bookWiring101"/>
+	<property name="DescriptionKey" value="encyclopediaelectricianSkillMagazineDesc"/>
+	<property name="Unlocks" value="craftingElectrician"/>
+	
+	<effect_group tiered="false">
+		<triggered_effect trigger="onSelfPrimaryActionEnd" action="AddProgressionLevel" progression_name="craftingElectrician" level="5"/> <!-- level="-1" sets a perk to max level -->
+		<triggered_effect trigger="onSelfPrimaryActionEnd" action="GiveExp" exp="250"/>
+	</effect_group>
+</item>
+
+	<!-- *** Traps_Skill_Magazine -->
+<item name="encyclopediatrapsSkillMagazine">
+	<property name="Extends" value="masterSkillMagazine"/>
+	<property name="Tags" value="trapsCSM"/>
+	<property name="CustomIcon" value="bookElectricalTraps"/>
+	<property name="DescriptionKey" value="encyclopediatrapsSkillMagazineDesc"/>
+	<property name="Unlocks" value="craftingTraps"/>
+	
+	<effect_group tiered="false">
+		<triggered_effect trigger="onSelfPrimaryActionEnd" action="AddProgressionLevel" progression_name="craftingTraps" level="5"/> <!-- level="-1" sets a perk to max level -->
+		<triggered_effect trigger="onSelfPrimaryActionEnd" action="GiveExp" exp="250"/>
+	</effect_group>
+</item>
+
+	<!-- *** Workstation_Skill_Magazine -->
+<item name="encyclopediaworkstationSkillMagazine">
+	<property name="Extends" value="masterSkillMagazine"/>
+	<property name="Tags" value="workstationCSM"/>
+	<property name="CustomIcon" value="bookForgeAhead"/>
+	<property name="DescriptionKey" value="encyclopediaworkstationSkillMagazineDesc"/>
+	<property name="Unlocks" value="craftingWorkstations"/>
+	
+	<effect_group tiered="false">
+		<triggered_effect trigger="onSelfPrimaryActionEnd" action="AddProgressionLevel" progression_name="craftingWorkstations" level="5"/> <!-- level="-1" sets a perk to max level -->
+		<triggered_effect trigger="onSelfPrimaryActionEnd" action="GiveExp" exp="250"/>
+	</effect_group>
+</item>
+
+	<!-- ***encyclopedia Vehicle_Skill_Magazine -->
+<item name="encyclopediavehiclesSkillMagazine">
+	<property name="Extends" value="masterSkillMagazine"/>
+	<property name="Tags" value="vehiclesCSM"/>
+	<property name="CustomIcon" value="bookVehicleAdventures"/>
+	<property name="DescriptionKey" value="encyclopediavehiclesSkillMagazineDesc"/>
+	<property name="Unlocks" value="craftingVehicles"/>
+	
+	<effect_group tiered="false">
+		<triggered_effect trigger="onSelfPrimaryActionEnd" action="AddProgressionLevel" progression_name="craftingVehicles" level="5"/> <!-- level="-1" sets a perk to max level -->
+		<triggered_effect trigger="onSelfPrimaryActionEnd" action="GiveExp" exp="250"/>
+	</effect_group>
+</item>
+	
+	</append>
+	
+</configs>

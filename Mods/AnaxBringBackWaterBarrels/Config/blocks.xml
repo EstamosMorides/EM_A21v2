@@ -1,0 +1,6 @@
+<lootableBarrels>
+<append xpath="/blocks/block[@name='cntBarrelPlasticSingle00' ]">	
+	<property name="Class" value="Loot"/>
+	<property name='LootList' value = 'cntBarrelPlasticSingle00'/>
+</append>
+</lootableBarrels>

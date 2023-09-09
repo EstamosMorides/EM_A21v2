@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Cookie>
+	<Name value="JoshsCraftableBeaker" />
+	<DisplayName value="Josh's Craftable Beaker" />
+	<Description value="Adds a recipe to craft beakers at the forge." />
+	<Author value="Lavendarjosh" />
+	<Version value="1.0" />
+	<Website value="" />
+</Cookie>

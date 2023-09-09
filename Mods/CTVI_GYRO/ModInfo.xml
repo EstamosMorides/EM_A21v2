@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+	<xml>
+	  <Name value="CTVI_GYRO" />
+	  <Author value="CTVI" />
+	  <Description value="CTVI modiofication to the Gryo to enable vertical take off and extra seats" />
+	  <DisplayName value="CTVI Gyro" />
+	  <Website value="https://www.ctvizombies.com/" />
+	  <Version value="1.0.0" />
+	</xml>
