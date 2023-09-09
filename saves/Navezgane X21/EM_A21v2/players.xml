@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<persistentplayerdata>
+  <player platform="EOS" userid="0002fd2861f249d18dfdb040e841f778" nativeplatform="Steam" nativeuserid="76561198273976979" playername="Mrs Burger" lastlogin="2023-08-23 22:07:10" position="3150,137,3318">
+    <acl platform="EOS" userid="0002bce4d7114ce5aa376e80bcb131dc" />
+    <lpblock pos="3894,142,621" />
+    <lpblock pos="3147,140,3315" />
+    <bedroll pos="3152,146,3308" />
+  </player>
+  <player platform="EOS" userid="0002bce4d7114ce5aa376e80bcb131dc" nativeplatform="Steam" nativeuserid="76561197975950925" playername="burger" lastlogin="2023-08-23 22:07:23" position="3121,138,3307">
+    <acl platform="EOS" userid="0002fd2861f249d18dfdb040e841f778" />
+    <lpblock pos="3988,142,516" />
+    <bedroll pos="3984,143,516" />
+  </player>
+</persistentplayerdata>
